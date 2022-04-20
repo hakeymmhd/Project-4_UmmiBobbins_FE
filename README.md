@@ -21,7 +21,6 @@ https://project-4-ummibobbins-be.herokuapp.com/
 - React-Bootstrap
 - Stripe Payment
 - Sweetalert2
-- Socket.io
 - Leaflet.js
 
 ## Features
